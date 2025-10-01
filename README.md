@@ -1,4 +1,4 @@
-# Impact.com CLI Demo
+# impact.com CLI Demo
 A simple Java CLI that prints out the name of **impact.com** using the [Picocli](https://picocli.info/) library. 
 
 ## Usage
